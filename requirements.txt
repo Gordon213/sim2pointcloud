@@ -1,0 +1,9 @@
+# Versions below are known to work together; newer compatible releases may work.
+numpy>=2.2.6
+h5py>=3.16.0
+hdf5plugin>=7.1.0
+mujoco>=3.13.0
+gymnasium>=1.2.3
+stable-worldmodel>=0.1.1
+matplotlib>=3.10.9
+

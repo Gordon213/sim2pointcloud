@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.h5
+*.hdf5
+*.partial
+*.lock
+pointcloud_preview/
+
