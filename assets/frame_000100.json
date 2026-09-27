@@ -1,0 +1,46 @@
+{
+  "dataset_attributes": {
+    "alpha_threshold": 0.5,
+    "camera": "front_pixels",
+    "camera_fovy_degrees": 45.0,
+    "complete": true,
+    "completed_frames": 2010000,
+    "completed_unix_time": 1789655261.8216264,
+    "compression": "none",
+    "coordinate_frame": "sensor: x forward, y left, z up",
+    "created_unix_time": 1789619732.7522478,
+    "dtype": "float32",
+    "first_hit_only": true,
+    "generator_version": 1,
+    "hostname": "bbb5090",
+    "last_checkpoint_unix_time": 1789655261.812814,
+    "max_range_metres": 2.0,
+    "miss_sentinel": "NaN",
+    "mujoco_version": "3.13.0",
+    "num_rays": 10000,
+    "ogbench_version": "1.2.1",
+    "ray_resolution": 100,
+    "source_frames": 2010000,
+    "source_mtime_ns": 1771470736000000000,
+    "source_path": "/mnt/BBB5090/lhy/Dataset/datasets/ogbench/cube_single_expert.h5",
+    "source_size_bytes": 101942558720,
+    "stable_worldmodel_version": "0.1.1"
+  },
+  "frame": 100,
+  "range_max_metres": 1.9994646310806274,
+  "range_mean_metres": 1.0323563814163208,
+  "range_min_metres": 0.5956944227218628,
+  "rays": 10000,
+  "valid_fraction": 0.961,
+  "valid_returns": 9610,
+  "xyz_max": [
+    1.8378275632858276,
+    0.713931679725647,
+    0.6622902154922485
+  ],
+  "xyz_min": [
+    0.5546329021453857,
+    -0.713931679725647,
+    -0.2766444683074951
+  ]
+}
